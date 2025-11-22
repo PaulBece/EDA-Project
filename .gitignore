@@ -1,5 +1,4 @@
-# Ignore all .exe files
+
 *.exe
 
-# Ignore output folder (any level)
-output/
+venv/
