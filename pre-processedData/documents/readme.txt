@@ -1,1 +1,0 @@
-Folder to feed the HashTable

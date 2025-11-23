@@ -1,7 +1,7 @@
 # EDA-Project
 
  # Prerequisites
-   Python 3.10
+   Python 3.10 (https://www.python.org/downloads/release/python-31011/ windows installer 64bits executable, check add to path)
    C++17
 
  # Create the venv
@@ -17,7 +17,7 @@
    g++ src/main.cpp -I include -o main.exe
 
  # execution pipeline
-   Step 0: Clean Environment (Optional)
+   Step 0: Prepare Environment (create folders and cleans them)
       python src/reset.py
 
    # The Visualizer, HashTable and Normalizer will need a separete terminal
